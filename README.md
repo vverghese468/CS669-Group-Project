@@ -1,0 +1,2 @@
+# CS669-Group-Project
+A repository of files from https://www.researchgate.net/publication/368230958_A_value-based_deep_reinforcement_learning_model_with_human_expertise_in_optimal_treatment_of_sepsis
